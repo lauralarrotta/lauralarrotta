@@ -1,11 +1,5 @@
 # Mi perfil de GitHub
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07)
 
-**lauralarrotta/lauralarrotta** es un repositorio especial ✨ porque su archivo README.md (este archivo) aparece en tu perfil de GitHub.
-
-Aquí tienes algunas ideas para comenzar:
-
-- 🔭 Estoy trabajando en ...
-- 🌱 Estoy aprendiendo ...
-- 👯 Estoy buscando colaborar en ...
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!)
