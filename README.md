@@ -33,10 +33,10 @@
 <br/>
 <div align="center">
     <div>
-        <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
+        <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,nestjs,git" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nextjs,postgresql" />
+        <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,postgresql" />
     </div>
 </div>
 
