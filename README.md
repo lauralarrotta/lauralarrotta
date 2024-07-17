@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lauralarrotta.lauralarrotta" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+👋;+Soy+Laura+Larrotta!;+Full+Stack+Developer;Especiliazada+en+Front-end;&color=FF00FF" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+👋;+Soy+Laura+Larrotta!;+Full+Stack+Developer;Especializada+en+Front-end;&color=FF00FF" />
 </h1>
 
 <h3 align="center">Apasionada por los videojuegos y la programación, desde Colombia 🎮</h3>
