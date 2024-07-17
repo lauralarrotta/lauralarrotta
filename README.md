@@ -46,11 +46,10 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-    
- 
-
-![snake gif]( https://github.com/lauralarrotta/lauralarrotta/blob/output/github-contribution-grid-snake.svg)
-
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/lauralarrotta/lauralarrotta/blob/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
 <hr/>
