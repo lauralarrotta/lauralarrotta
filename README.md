@@ -43,3 +43,7 @@
 <br/>
 
 <hr/>
+
+## snake
+
+![snake gif](https://github.com/lauralarrotta/lauralarrotta/blob/output/github-contribution-grid-snake.gif)
