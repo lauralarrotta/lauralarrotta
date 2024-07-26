@@ -16,7 +16,7 @@
 
 ⚡ Dato curioso: **El primer juego de videojuegos que incluyó un huevo de Pascua fue Adventure en Atari 2600, donde el diseñador ocultó su nombre dentro del juego.**
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:larrotta.laura@gmail.com">
@@ -27,21 +27,21 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
  
-<h2 align="center">⚒️ Lenguajes-Frameworks-Herramientos⚒️</h2>
+<h2 align="center">⚒️ Lenguajes-Frameworks-Herramientas ⚒️</h2>
 <br/>
 <div align="center">
     <div>
         <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,nestjs,git" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,postgresql" />
+        <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,postgresql" /> 
     </div>
 </div>
 
 <br/>
-
 <hr/>
 
+![snake gif](https://github.com/lauralarrotta/lauralarrotta/blob/output/github-contribution-grid-snake.svg)
 
